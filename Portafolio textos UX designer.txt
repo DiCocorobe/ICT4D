@@ -1,0 +1,206 @@
+﻿Portfolio texts 
+
+
+UX Designer and Researcher.
+Diana Araújo-Santos · 2026
+
+
+
+
+
+
+About me. 
+
+
+I’ve been working in technology as a UX Designer and Researcher for around 10 years. My motivation is the possibility to work with the community collaborating with tools to find concrete solutions for specific problems. I also enjoy working in technology for social good because tends to aim for systemic solutions (though in many cases problems are too complex even for big stake holders!). I feel inspired by a creative approach mostly learning to improve and ethically grounded in supporting people and communities who will benefit from those changes. You can see my work in this portfolio, a big part of my experience is in Fundación Capital.
+I have had the opportunity to work with a variety of technologies, topics and diverse communities enriching my experience, empathy and willingness to learn from the journey in other places and projects.
+
+
+
+
+Projects
+A Directory Tool for Entrepreneurs
+
+
+Role: UX/UI Design, Research and Product Development
+Tool: RedNodus 2020 - 2023
+Users: Entrepreneurs in Colombia, Mexico and Peru
+Client: Centre for Inclusive Growth
+Summary: Directory platform supporting  micro business to know, compare and select the best digital tools to optimize business. I designed, developed and refine UX/UI in multiple iterations including the integration with other tools.
+More information: Social media
+
+
+
+
+After working for several year with micro business owners in Latin America, it was clear the need to become digital. This to be more efficient and increase their profit. However, digital solutions in the organisation were focus on training and business owners preferred a learning by doing approach. Many solutions were developed willing to be used, with no results.
+
+
+The directory was designed based on focus groups and guerrilla tests, presenting scenarios like: “I’m developing a tool to solve the biggest problem your business faces… What problem do you think I’m talking about?“ Responses an other activities are in the next columns
+Quotes
+Suppliers:
+"A lack of suppliers who can provide goods at a reasonable price and not in excessive quantities"
+“Find new suppliers”
+
+
+Brand image and marketing
+"How to create a website"
+“How to promote and raise awareness of the product”
+"Promote the business"
+“Improve your logo”
+“How to take photos”
+
+
+During the discovery stage I developed different users profile and feed them with each iteration.
+
+
+The brand development can be a  long process when various stakeholders and interests are involved. In this case the tool was part of a bigger project that could give a standard identity to every tool. It was decided to built independent identities for each digital product.  
+
+
+Before launching the first version I followed a usability test to stress different ways to access the product, from navigating without registration, to downloading the WPA in phones.
+
+
+After a number of front end iterations, the tool was launch as an MVP and improved in 2 week sprints using testing tools, like A7B testing or temperature maps of usage. The data base with the digital products was populated over time reaching around 500 products in 3 countries. 
+
+
+The directory had a dashboard for each country, including activation, recurrence and adoptions metrics.
+
+
+Conclusions.
+
+
+A mobile version was the first idea, but over time we discovered micro business owners navigated in the shop desktops too.The three countries implementation was useful to compare motivations, usability and implementation strategies. The tool reached more users in Colombia, due to a combination of factors  such as the field team presentations, the offered supply, the integration with other tools and the social media promotion. 
+
+
+A Training System to Reach Excluded Communities
+
+
+UX Design and Product Development
+Tool: LISTA 3.0  App (2016 -2019)
+Users: Venezuelan migrant community in Colombia and participants of poverty alleviation programmes.
+Client: Citi Foundation
+Summary: 3.0 version transformed a Financial Literacy app into a technology system aiming to be adapted to different topics, languages and country local regions. 
+More information: video
+
+
+
+
+The majority of users were women trained in financial education to become more independent learning to save and to manage their own money.
+After a big success, a redesign to adapt the training to different regions and government requirements was need it.
+Users might have low literacy and numeracy, so the experience is interactive, including small animations and audio guidance through the journey. My work was redesigned story boards integrating new improvements. It was also a validation process of new features for edutainment like a personalised register and mini games. 
+
+
+A line mobile version was developed to reach more people with access to their own devices. The challenge was to train and solve technical issues due to low phy mobile phones with irregular or no connectivity.
+I had online training sessions with the Venezuelan migrant community to guide them through the register, also in person workshops complementing the learning process.
+
+
+The system works offline syncing data after each rotation. Field workers were a big part of the adaptation providing inputs to improve the user experience. 
+
+
+
+
+The new training system jumped from small adaptations to complete new apps that I co-designed in a hands on process. Savings Guardians a tool for kids to learn to safe money and environmental resources, or Achieve your Goals an interactive Soap Opera for Zongolica Cooperative and coffee farmers in South Mexico. 
+
+
+Savings Guardians menu
+Achieve your Goals story of a broken toilet.
+
+
+
+
+
+
+Despite the many elements that could be adapted the UX/UI was specially designed for each project, community and implementation.
+For Achieve Your Goals I developed specific diagrams to work in different integration of content from different agencies and technologies. 
+
+
+
+
+Based on each project the ideal tool for development was a UX/UI tailor made detailed  storyboard or a decision tree  to intergrate diferent  types of interactions 
+
+
+Conclusions.
+
+
+A new version of the system was needed a couple of years after, mainly due to data sync problems. The UX was updated and simplified in a more standard look and feel.
+
+
+I’ve learnt that a content manager system (CMS) was key for digital solutions and intervention in specific communities to localised the process in a smooth.
+
+
+Mobile app for Banking Agents in Remote Areas
+
+
+UX/UI Design, Research and Product Development 
+Tool: DIMO Mobile Webapp (2018 - 2021)
+Users: Remote rural areas baking agents in Colombia
+Client: Banca de las Oportunidades (Opportunities Bank - Public Entity)
+Summary: Simulation tool of card machines  to train micro business owners without risk to take advantage of a complementary income as small banks in remote areas. 
+Other info: implementation video
+
+
+Banking agents are sometimes the unique point to access cash where cash is the main exchange currency.  A web app with fast training cards and specific requirements like transaction costs or money laundry knowledge, supported banking agents to offer this service to the community. A main point of this design was the security development needed to advance in further steps This is why I collaborated in a consultancy to gain expertise in data privacy rights and cybersecurity.
+
+
+Money Laundry info-graphics
+
+
+The app has a CMS for independent updates. This system had levels of access based on user’s profile including field workers, content developers or the product owner. Each banking agent could work with one or more than one financial institution, so not having any data breach was relevant. 
+
+
+
+
+
+
+Conclusions
+
+
+Banking agents benefited from the training and learning how transactions worked out. Key simple features came out from the research like a simple field to manages hundred of location codes to set up a transaction. The tool joined the opening of  new banking agents in rural areas were the community could be expecting remittances,  benefits  or to save money in a bank account.
+
+
+
+
+Workshoping, Testing and Volunteering
+
+
+Workshop with Migrant Colombian Community
+
+
+
+
+Workshop Design and Delivery (UK)
+Tool: Batá the Whale’s Journey 2025 
+Users: Colombian young migrants
+Client: Colombian Consulate London
+Summary: The purpose of the workshop was to connect young migrants in England with their Colombian origins through music, video and printing workshops about sea diversity.
+
+
+
+
+
+
+Language Interaction Testing
+
+
+
+
+Prototype and testing design (UK)
+Tool: Ohlambala (2025 -2026)
+Users: Spanish second language students in London schools. 
+Client: Leytonstone  and Stoke Newington Secondary Schools in London
+Summary: An online  exchange platform for practicing second language speaking skills, connecting English and Spanish students. Interviewed head of department and teachers and applied surveys to students to design a desirability test of the training and online sessions.
+
+
+
+
+Tool for Collaborative  Arts in London
+
+
+UX design (UK)
+Tool: Proyecto Bloomsbury (2023)
+User Artist living in London
+Summary: Web page to connect music and films community. Collaborated with artist and producers to brainstorm the collective project
+
+
+
+
+Let’s talk! d.arausan@gmail.com
